@@ -1,2 +1,2 @@
-md=int(input())
-print(md*2)
+daf=int(input())
+print(daf*2)
